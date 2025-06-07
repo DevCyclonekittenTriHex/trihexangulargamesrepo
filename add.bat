@@ -1,4 +1,4 @@
-git lfs track "Square Adventure.zip"
+git lfs track "*.zip"
 git lfs push --all origin main
 git add .
 git commit -m "lfs"
