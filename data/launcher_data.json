@@ -1,25 +1,7 @@
 {
     "version": 0.1,
-    "games": [
-        {
-            "version": 0.1,
-            "builds": {
-                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Aeronaut%20Adrenaline_main",
-                "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Aeronaut%20Adrenaline_jam"
-            },
-            "display-name": "Aeronaut Adrenaline",
-            "display-description": "temp",
-            "display-images": [
-                "null"
-            ],
-            "display-video": "null",
-            "avaliable-builds": [
-                "main",
-                "jam"
-            ],
-            "price": 0
-        },
-        {
+    "games": {
+        "Aeronaut Adrenaline": {
             "version": 0.1,
             "builds": {
                 "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Aeronaut%20Adrenaline_main",
@@ -37,5 +19,5 @@
             ],
             "price": 0
         }
-    ]
+    }
 }
