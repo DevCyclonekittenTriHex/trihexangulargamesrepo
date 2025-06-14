@@ -1,7 +1,8 @@
 {
     "version": 0.1,
-    "games": {
-        "Aeronaut Adrenaline": {
+    "games": [
+        {
+            "name": "Aeronaut Adrenaline",
             "version": 0.1,
             "builds": {
                 "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Aeronaut%20Adrenaline_main",
@@ -19,5 +20,5 @@
             ],
             "price": 0
         }
-    }
+    ]
 }
