@@ -9,9 +9,10 @@
                 "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Aeronaut%20Adrenaline_jam"
             },
             "displayname": "Aeronaut Adrenaline",
-            "displaydescription": "temp",
+            "displaydescription": "Your mission is to destroy the rocket which is trying to destroy Earth. You will need to conserve jetpack fuel as it has four layers with increasingly harder security. Good luck, all humans leave your fate into you.",
             "displayimages": [
-                "null"
+                "icon.png",
+                "banner.png"
             ],
             "displayvideo": "null",
             "avaliablebuilds": [
