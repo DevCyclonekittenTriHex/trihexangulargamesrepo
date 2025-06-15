@@ -19,7 +19,8 @@
                 "main",
                 "jam"
             ],
-            "price": 0
+            "price": 0,
+            "author": "Trihexangular Studios"
         },
         {
             "name": "Fallen Slime",
@@ -42,7 +43,8 @@
                 "main",
                 "jam"
             ],
-            "price": 0
+            "price": 0,
+            "author": "Trihexangular Studios"
         },
         {
             "name": "Fallen Through",
@@ -63,7 +65,8 @@
                 "main",
                 "jam"
             ],
-            "price": 0
+            "price": 0,
+            "author": "Trihexangular Studios"
         },
         {
             "name": "Fire OS",
@@ -86,7 +89,8 @@
                 "main",
                 "jam"
             ],
-            "price": 0
+            "price": 0,
+            "author": "Trihexangular Studios"
         },
         {
             "name": "Relic Hunter",
@@ -109,7 +113,8 @@
                 "main",
                 "jam"
             ],
-            "price": 0
+            "price": 0,
+            "author": "Trihexangular Studios"
         },
         {
             "name": "Sanity Drain",
@@ -131,7 +136,8 @@
                 "main",
                 "jam"
             ],
-            "price": 0
+            "price": 0,
+            "author": "Trihexangular Studios"
         },
         {
             "name": "Square Adventure 2",
@@ -152,7 +158,8 @@
             "avaliablebuilds": [
                 "main"
             ],
-            "price": 0
+            "price": 0,
+            "author": "Trihexangular Studios"
         },
         {
             "name": "Square Adventure World",
@@ -173,7 +180,8 @@
             "avaliablebuilds": [
                 "main"
             ],
-            "price": 0
+            "price": 0,
+            "author": "Trihexangular Studios"
         },
         {
             "name": "Square Adventure",
@@ -194,7 +202,8 @@
             "avaliablebuilds": [
                 "main"
             ],
-            "price": 0
+            "price": 0,
+            "author": "Trihexangular Studios"
         },
         {
             "name": "The Game Of Cat And Mouse",
@@ -216,7 +225,8 @@
                 "main",
                 "jam"
             ],
-            "price": 0
+            "price": 0,
+            "author": "Trihexangular Studios"
         },
         {
             "name": "Up To Capacitor",
@@ -238,7 +248,8 @@
                 "main",
                 "jam"
             ],
-            "price": 0
+            "price": 0,
+            "author": "Trihexangular Studios"
         }
     ]
 }
