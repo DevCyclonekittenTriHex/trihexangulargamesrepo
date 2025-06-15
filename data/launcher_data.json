@@ -20,6 +20,207 @@
                 "jam"
             ],
             "price": 0
+        },
+        {
+            "name": "Fallen Slime",
+            "version": 0.1,
+            "builds": {
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Fallen%20Slime_main",
+                "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Fallen%20Slime_jam"
+            },
+            "displayname": "Fallen Slime",
+            "displaydescription": "temp",
+            "displayimages": [
+                "icon.png",
+                "banner.png",
+                "store1.png",
+                "store2.png",
+                "store3.png"
+            ],
+            "displayvideo": "null",
+            "avaliablebuilds": [
+                "main",
+                "jam"
+            ],
+            "price": 0
+        },
+        {
+            "name": "Fallen Through",
+            "version": 0.1,
+            "builds": {
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Fallen%20Through_main",
+                "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Fallen%20Through_jam"
+            },
+            "displayname": "Fallen Through",
+            "displaydescription": "temp",
+            "displayimages": [
+                "icon.png",
+                "banner.png",
+                "store1.png"
+            ],
+            "displayvideo": "null",
+            "avaliablebuilds": [
+                "main",
+                "jam"
+            ],
+            "price": 0
+        },
+        {
+            "name": "Fire OS",
+            "version": 0.1,
+            "builds": {
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Fire%20OS_main",
+                "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Fire%20OS_jam"
+            },
+            "displayname": "Fire OS",
+            "displaydescription": "temp",
+            "displayimages": [
+                "icon.png",
+                "banner.png",
+                "store1.png",
+                "store2.png",
+                "store3.png"
+            ],
+            "displayvideo": "null",
+            "avaliablebuilds": [
+                "main",
+                "jam"
+            ],
+            "price": 0
+        },
+        {
+            "name": "Relic Hunter",
+            "version": 0.1,
+            "builds": {
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Relic%20Hunter_main",
+                "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Relic%20Hunter_jam"
+            },
+            "displayname": "Relic Hunter",
+            "displaydescription": "temp",
+            "displayimages": [
+                "icon.png",
+                "banner.png"
+            ],
+            "displayvideo": "null",
+            "avaliablebuilds": [
+                "main",
+                "jam"
+            ],
+            "price": 0
+        },
+        {
+            "name": "Sanity Drain",
+            "version": 0.1,
+            "builds": {
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Sanity%20Drain_main",
+                "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Sanity%20Drain_jam"
+            },
+            "displayname": "Sanity Drain",
+            "displaydescription": "temp",
+            "displayimages": [
+                "icon.png",
+                "banner.png"
+            ],
+            "displayvideo": "null",
+            "avaliablebuilds": [
+                "main",
+                "jam"
+            ],
+            "price": 0
+        },
+        {
+            "name": "Square Adventure 2",
+            "version": 0.1,
+            "builds": {
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Square%20Adventure%202_main"
+            },
+            "displayname": "Square Adventure 2",
+            "displaydescription": "temp",
+            "displayimages": [
+                "icon.png",
+                "banner.png"
+            ],
+            "displayvideo": "null",
+            "avaliablebuilds": [
+                "main"
+            ],
+            "price": 0
+        },
+        {
+            "name": "Square Adventure World",
+            "version": 0.1,
+            "builds": {
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Square%20Adventure%20World_main"
+            },
+            "displayname": "Square Adventure World",
+            "displaydescription": "temp",
+            "displayimages": [
+                "icon.png",
+                "banner.png"
+            ],
+            "displayvideo": "null",
+            "avaliablebuilds": [
+                "main"
+            ],
+            "price": 0
+        },
+        {
+            "name": "Square Adventure",
+            "version": 0.1,
+            "builds": {
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Square%20Adventure_main"
+            },
+            "displayname": "Square Adventure",
+            "displaydescription": "temp",
+            "displayimages": [
+                "icon.png",
+                "banner.png"
+            ],
+            "displayvideo": "null",
+            "avaliablebuilds": [
+                "main"
+            ],
+            "price": 0
+        },
+        {
+            "name": "The Game Of Cat And Mouse",
+            "version": 0.1,
+            "builds": {
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/The%20Game%20Of%20Cat%20And%20Mouse_main",
+                "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/The%20Game%20Of%20Cat%20And%20Mouse_jam"
+            },
+            "displayname": "The Game Of Cat And Mouse",
+            "displaydescription": "temp",
+            "displayimages": [
+                "icon.png",
+                "banner.png"
+            ],
+            "displayvideo": "null",
+            "avaliablebuilds": [
+                "main",
+                "jam"
+            ],
+            "price": 0
+        },
+        {
+            "name": "Up To Capacitor",
+            "version": 0.1,
+            "builds": {
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Up%20To%20Capacitor_main",
+                "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Up%20To%20Capacitor_jam"
+            },
+            "displayname": "Up To Capacitor",
+            "displaydescription": "temp",
+            "displayimages": [
+                "icon.png",
+                "banner.png"
+            ],
+            "displayvideo": "null",
+            "avaliablebuilds": [
+                "main",
+                "jam"
+            ],
+            "price": 0
         }
     ]
 }
