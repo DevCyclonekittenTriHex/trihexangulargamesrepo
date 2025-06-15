@@ -1,5 +1,6 @@
 {
     "version": 0.2,
+    "packageversion":0.35,
     "games": [
         {
             "name": "Aeronaut Adrenaline",
