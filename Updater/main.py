@@ -1,7 +1,7 @@
 import downloader,os,json,subprocess
 import data as dat
 import gui
-
+import maingui
 
 
 home_dir = os.path.expanduser("~")
@@ -64,7 +64,7 @@ def MainLoop():
         if(skipstep==True):
             respon = 2
         else:
-            respon = gui.ask_question()
+            respon = maingui.ask_question()
         if(respon==2):
             gui.MENU()
             Install()
