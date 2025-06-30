@@ -1,6 +1,6 @@
 {
     "version": 0.9,
-    "packageversion": 0.35,
+    "packageversion": 0.4,
     "games": [
         {
             "name": "Aeronaut Adrenaline",
@@ -17,7 +17,6 @@
             ],
             "displayvideo": "null",
             "avaliablebuilds": [
-                "main",
                 "jam"
             ],
             "price": 0,
@@ -31,7 +30,7 @@
                 "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Fallen%20Slime_jam"
             },
             "displayname": "Fallen Slime",
-            "displaydescription": "temp",
+            "displaydescription": "A simple 3 level rougelike where you gain mutations, \nbut beware as they can change as they become more unstable as time progresses.",
             "displayimages": [
                 "icon.png",
                 "banner.png",
@@ -41,7 +40,6 @@
             ],
             "displayvideo": "null",
             "avaliablebuilds": [
-                "main",
                 "jam"
             ],
             "price": 0,
@@ -55,7 +53,7 @@
                 "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Fallen%20Through_jam"
             },
             "displayname": "Fallen Through",
-            "displaydescription": "temp",
+            "displaydescription": "Yet another rougelike where you are an angel and fight enemies in an arena. \nFalling lower until you fight worse and worse demons.",
             "displayimages": [
                 "icon.png",
                 "banner.png",
@@ -63,7 +61,6 @@
             ],
             "displayvideo": "null",
             "avaliablebuilds": [
-                "main",
                 "jam"
             ],
             "price": 0,
@@ -71,13 +68,13 @@
         },
         {
             "name": "Fire OS",
-            "version": 0.1,
+            "version": 0.2,
             "builds": {
                 "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Fire%20OS_main",
                 "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Fire%20OS_jam"
             },
             "displayname": "Fire OS",
-            "displaydescription": "temp",
+            "displaydescription": "You install an infected operating system, and have to find a way to uninstall it. \nA microgame constisting of puzzles, platforming, and epic bossfights.",
             "displayimages": [
                 "icon.png",
                 "banner.png",
@@ -85,9 +82,8 @@
                 "store2.png",
                 "store3.png"
             ],
-            "displayvideo": "null",
+            "displayvideo": "video1.mp4",
             "avaliablebuilds": [
-                "main",
                 "jam"
             ],
             "price": 0,
@@ -101,7 +97,7 @@
                 "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Relic%20Hunter_jam"
             },
             "displayname": "Relic Hunter",
-            "displaydescription": "temp",
+            "displaydescription": "You are, you guessed it, a relic hunter. \nGoing through the infected libraries and gathering as many relics and souls as you can.",
             "displayimages": [
                 "icon.png",
                 "banner.png",
@@ -111,7 +107,6 @@
             ],
             "displayvideo": "null",
             "avaliablebuilds": [
-                "main",
                 "jam"
             ],
             "price": 0,
@@ -125,7 +120,7 @@
                 "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Sanity%20Drain_jam"
             },
             "displayname": "Sanity Drain",
-            "displaydescription": "temp",
+            "displaydescription": "A memory game based on the theme deja vu. \nGet lost, or get lost, did I just repeat myself? Where am I?",
             "displayimages": [
                 "icon.png",
                 "banner.png",
@@ -134,7 +129,6 @@
             ],
             "displayvideo": "null",
             "avaliablebuilds": [
-                "main",
                 "jam"
             ],
             "price": 0,
@@ -147,7 +141,7 @@
                 "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Square%20Adventure%202_main"
             },
             "displayname": "Square Adventure 2",
-            "displaydescription": "temp",
+            "displaydescription": "Lore expansion pack: $0.00",
             "displayimages": [
                 "icon.png",
                 "banner.png",
@@ -169,7 +163,7 @@
                 "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Square%20Adventure%20World_main"
             },
             "displayname": "Square Adventure World",
-            "displaydescription": "temp",
+            "displaydescription": "Expanding on the square adventure universe.",
             "displayimages": [
                 "icon.png",
                 "banner.png",
@@ -188,10 +182,11 @@
             "name": "Square Adventure",
             "version": 0.1,
             "builds": {
-                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Square%20Adventure_main"
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Square%20Adventure_main",
+                "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Square%20Adventure_jam"
             },
             "displayname": "Square Adventure",
-            "displaydescription": "temp",
+            "displaydescription": "The cube.",
             "displayimages": [
                 "icon.png",
                 "banner.png",
@@ -201,7 +196,8 @@
             ],
             "displayvideo": "null",
             "avaliablebuilds": [
-                "main"
+                "main",
+                "jam"
             ],
             "price": 0,
             "author": "Trihexangular Studios"
@@ -214,7 +210,7 @@
                 "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/The%20Game%20Of%20Cat%20And%20Mouse_jam"
             },
             "displayname": "The Game Of Cat And Mouse",
-            "displaydescription": "temp",
+            "displaydescription": "A game where you are a cat, and you have to kill mice. Avoid police and cars and gain the highest score. My first ever game jam Entry.",
             "displayimages": [
                 "icon.png",
                 "banner.png",
@@ -223,7 +219,28 @@
             ],
             "displayvideo": "null",
             "avaliablebuilds": [
-                "main",
+                "jam"
+            ],
+            "price": 0,
+            "author": "Trihexangular Studios"
+        },
+        {
+            "name": "The Stronghold",
+            "version": 0.1,
+            "builds": {
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/The%20Stronghold_main",
+                "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/The%20Stronghold_main"
+            },
+            "displayname": "The Stronghold",
+            "displaydescription": "e",
+            "displayimages": [
+                "icon.png",
+                "banner.png",
+                "store1.png",
+                "store2.png"
+            ],
+            "displayvideo": "null",
+            "avaliablebuilds": [
                 "jam"
             ],
             "price": 0,
@@ -237,7 +254,7 @@
                 "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Up%20To%20Capacitor_jam"
             },
             "displayname": "Up To Capacitor",
-            "displaydescription": "temp",
+            "displaydescription": "A game about scaling a city to infinity, use nuclear energy and don't recreate Chernobyl.",
             "displayimages": [
                 "icon.png",
                 "banner.png",
@@ -246,7 +263,6 @@
             ],
             "displayvideo": "null",
             "avaliablebuilds": [
-                "main",
                 "jam"
             ],
             "price": 0,
