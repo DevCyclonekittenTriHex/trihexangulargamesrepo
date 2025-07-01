@@ -1,1 +1,25 @@
+This is a guide to beating the game "The Stronghold". Yeah yeah it sucks but you went to this link so you are stuck.
+
+
+In the bottom right corner there is your map, top left corner your health, bottom left corner your abilities, and top right corner your picked up items (you start with none).
+There are 3 floors, each with a boss at the end, you start at the flag room, and have to make your way towards the boss.
+The flow of arrows are opposite, so if you look at what room is pointing to the start room, that is the direction of the boss.
+There are a shop room which has 3 items available (there was gonna be a currency, but no time),
+There are item rooms, dictated with the room of Capital I, a Red Square, and a very hard to see grey pixel room.
+
+Tip for beginners, fight through the floors to get every item, you have natural regeneration, so if you are low on health, stay still and wait (its against the point of the speedjam, but it will keep you alive).
+
+
+Tip for comfortable players:
+
+#notcomplete
+
+
+
+Bugs I am aware of:
+- No miniboss, replaced with item room,
+- No currency,
+- You cannot die, will try and give new update patch,
+- Enemy AI is messed up (thanks bezi).
+- The parry glitch (feature turned bug).
 
