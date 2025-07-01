@@ -27,5 +27,7 @@ Bugs I am aware of:
 - You cannot die, will try and give new update patch,
 - Enemy AI is messed up (thanks bezi).
 - The parry glitch (feature turned bug).
+- There are no difficulties, only one general one, feature not added
+- Some items like lifeline, lightning, ghost dash and other stuff don't work
 
 Please tell me more if you find them. After the speedjam is over, I will upgrade it.
