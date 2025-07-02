@@ -1,0 +1,33 @@
+This is a guide to beating the game "The Stronghold". Yeah yeah it sucks but you went to this link so you are stuck.
+
+In the bottom right corner there is your map, top left corner your health, bottom left corner your abilities, and top right corner your picked up items (you start with none).
+
+There are 3 floors, each with a boss at the end, you start at the flag room, and have to make your way towards the boss.
+The flow of arrows are opposite, so if you look at what room is pointing to the start room, that is the direction of the boss.
+There are a shop room which has 3 items available (there was gonna be a currency, but no time),
+There are item rooms, dictated with the room of Capital I, a Red Square, and a very hard to see grey pixel room.
+
+Tip for beginners, fight through the floors to get every item, you have natural regeneration, so if you are low on health, stay still and wait (its against the point of the speedjam, but it will keep you alive).
+-   The best items are ones that provide range buffs, damage buffs, and lifesteal. The unlockable activated abilites are very over powered but rare.
+
+Tip for comfortable players:
+-   More practice
+
+Tip for speedrunners:
+-  Go Fast, use dashes and abilites for regular rooms, not bosses unless you can.
+-  The only items that will buff you are whirlwind, and triple blade.
+-  When you fight the boss, go up close and hit, whenever your swipe hits a projectile, your swing cooldown is immediately reset, allowing you to deal 100 damage per second with no upgrades.
+-  Reset when you don't have the boss in 3 rooms away
+-  It takes trial and error, each floor should be able to be killed in 30 seconds, that is a good endgoal
+-  Only pickup an item if its in your path, or if a shop is one away, dont go for item rooms if its not on your direct path.
+
+Bugs I am aware of:
+- No miniboss, replaced with item room,
+- No currency,
+- You cannot die, will try and give new update patch,
+- Enemy AI is messed up (thanks bezi).
+- The parry glitch (feature turned bug).
+- There are no difficulties, only one general one, feature not added
+- Some items like lifeline, lightning, ghost dash and other stuff don't work
+
+Please tell me more if you find them. After the speedjam is over, I will upgrade it.
