@@ -226,7 +226,7 @@
         },
         {
             "name": "The Stronghold",
-            "version": 0.1,
+            "version": 0.2,
             "builds": {
                 "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/The%20Stronghold_main",
                 "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/The%20Stronghold_main"
