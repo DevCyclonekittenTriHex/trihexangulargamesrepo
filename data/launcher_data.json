@@ -1,6 +1,6 @@
 {
-    "version": 0.92,
-    "packageversion": 0.51,
+    "version": 0.9,
+    "packageversion": 0.4,
     "games": [
         {
             "name": "Aeronaut Adrenaline",
@@ -14,6 +14,28 @@
             "displayimages": [
                 "icon.png",
                 "banner.png"
+            ],
+            "displayvideo": "null",
+            "avaliablebuilds": [
+                "jam"
+            ],
+            "price": 0,
+            "author": "Trihexangular Studios"
+        },
+        {
+            "name": "Castle Loop",
+            "version": 0.1,
+            "builds": {
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Castle%20Loop_main",
+                "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Castle%20Loop_jam"
+            },
+            "displayname": "Castle Loop",
+            "displaydescription": "e",
+            "displayimages": [
+                "icon.png",
+                "banner.png",
+                "store1.png",
+                "store2.png"
             ],
             "displayvideo": "null",
             "avaliablebuilds": [
@@ -226,7 +248,7 @@
         },
         {
             "name": "The Stronghold",
-            "version": 0.2,
+            "version": 0.1,
             "builds": {
                 "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/The%20Stronghold_main",
                 "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/The%20Stronghold_main"
