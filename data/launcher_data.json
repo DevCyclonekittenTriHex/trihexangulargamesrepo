@@ -289,6 +289,29 @@
             ],
             "price": 0,
             "author": "Trihexangular Studios"
+        },
+        {
+            "name": "The Cat",
+            "version": 0.1,
+            "builds": {
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/The%20Cat_main",
+                "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/The%20Cat_jam"
+            },
+            "displayname": "The Card Cat Topdown Game",
+            "displaydescription": "Otto will be working on this, it sux atm.",
+            "displayimages": [
+                "icon.png",
+                "banner.png",
+                "store1.png",
+                "store2.png",
+                "store3.png"
+            ],
+            "displayvideo": "null",
+            "avaliablebuilds": [
+                "jam"
+            ],
+            "price": 0,
+            "author": "O_TG"
         }
     ]
 }
