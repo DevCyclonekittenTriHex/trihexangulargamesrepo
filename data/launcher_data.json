@@ -1,6 +1,6 @@
 {
-    "version": 0.9,
-    "packageversion": 0.4,
+    "version": 0.93,
+    "packageversion": 0.51,
     "games": [
         {
             "name": "Aeronaut Adrenaline",
@@ -30,12 +30,13 @@
                 "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Castle%20Loop_jam"
             },
             "displayname": "Castle Loop",
-            "displaydescription": "e",
+            "displaydescription": "A tower defence game based around the theme loop, enemies loop around getting stronger the more times the loop.",
             "displayimages": [
                 "icon.png",
                 "banner.png",
                 "store1.png",
-                "store2.png"
+                "store2.png",
+                "store3.png"
             ],
             "displayvideo": "null",
             "avaliablebuilds": [
