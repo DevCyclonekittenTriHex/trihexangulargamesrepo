@@ -14,7 +14,7 @@
             "name":"Test Message number 2",
             "content":"Heres the image you want. An update.",
             "flags": 21222222,
-            "images": ["Assets/Messages/temp1"]
+            "images": ["Assets/Messages/temp1.png"]
         }
     ],
     "games": [
