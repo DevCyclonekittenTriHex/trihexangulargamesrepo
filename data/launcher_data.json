@@ -4,8 +4,8 @@
     "messages": [
         {
             "id":1,
-            "name":"hello",
-            "content":"world",
+            "name":"Test Message",
+            "content":"This is a test message, and should appear showing a 'deprication warning' at the top, this message can be viewed again with remind me later, or completely removed with dismiss.",
             "flags": 10000000
         }
     ],
