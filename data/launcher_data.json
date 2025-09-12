@@ -18,8 +18,8 @@
         },
         {
             "id":3,
-            "name":"Hehe, goose is back",
-            "content":"Violence solves every problem.",
+            "name":"Test 3 Final",
+            "content":"Goose back",
             "flags": 22122221,
             "images": ["Assets/Messages/temp1.png"]
         }
