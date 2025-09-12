@@ -3,9 +3,9 @@
     "packageversion": 0.52,
     "messages": [
         {
-            "id":1,
-            "name":"hello",
-            "content":"world",
+            "id": 1,
+            "name": "hello",
+            "content": "world",
             "flags": 10000000
         }
     ],
