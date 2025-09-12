@@ -16,6 +16,13 @@
             "flags": 21222222,
             "images": ["Assets/Messages/temp1.png"]
         }
+        {
+            "id":3,
+            "name":"Hehe, goose is back",
+            "content":"Violence solves every problem.",
+            "flags": 22122221,
+            "images": ["Assets/Messages/temp1.png"]
+        }
     ],
     "games": [
         {
