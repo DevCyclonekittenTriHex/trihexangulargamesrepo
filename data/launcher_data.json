@@ -6,14 +6,14 @@
             "id":1,
             "name":"Test Message",
             "content":"This is a test message, and should appear showing a 'deprication warning' at the top, this message can be viewed again with remind me later, or completely removed with dismiss.",
-            "flags": 10000000,
+            "flags": 12222222,
             "images":[]
         },
         {
             "id":1,
             "name":"Test Message number 2",
             "content":"Heres the image you want. An update.",
-            "flags": 01000000,
+            "flags": 21222222,
             "images": ["Assets/Messages/temp1"]
         }
     ],
