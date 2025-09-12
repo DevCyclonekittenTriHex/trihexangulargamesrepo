@@ -1,6 +1,14 @@
 {
     "version": 0.95,
     "packageversion": 0.52,
+    "messages": [
+        {
+            "id":1,
+            "name":"hello",
+            "content":"world",
+            "flags": 10000000
+        }
+    ]
     "games": [
         {
             "name": "Aeronaut Adrenaline",
