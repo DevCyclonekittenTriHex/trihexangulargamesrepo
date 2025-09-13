@@ -257,44 +257,6 @@
             "author": "Trihexangular Studios"
         },
         {
-            "name": "test",
-            "version": 0.1,
-            "builds": {
-                "e": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/test_e"
-            },
-            "displayname": "test",
-            "displaydescription": "e",
-            "displayimages": [
-                "e"
-            ],
-            "displayvideo": "e",
-            "avaliablebuilds": [
-                "e",
-                "e",
-                "e"
-            ],
-            "price": 1,
-            "author": "e"
-        },
-        {
-            "name": "test1",
-            "version": 0.1,
-            "builds": {
-                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/test1_main"
-            },
-            "displayname": "test1",
-            "displaydescription": "e",
-            "displayimages": [
-                "i"
-            ],
-            "displayvideo": "o",
-            "avaliablebuilds": [
-                "main"
-            ],
-            "price": 1,
-            "author": "a"
-        },
-        {
             "name": "The Game Of Cat And Mouse",
             "version": 0.1,
             "builds": {
