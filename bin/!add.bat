@@ -1,3 +1,4 @@
+git pull
 git lfs track "*.zip"
 git lfs push --all origin main
 git add .
