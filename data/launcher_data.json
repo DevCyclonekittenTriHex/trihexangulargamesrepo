@@ -1,5 +1,5 @@
 {
-    "version": 0.95,
+    "version": 0.94,
     "packageversion": 0.52,
     "messages": [
         {
@@ -182,6 +182,24 @@
                 "store3.png"
             ],
             "displayvideo": "null",
+            "avaliablebuilds": [
+                "main"
+            ],
+            "price": 0,
+            "author": "Trihexangular Studios"
+        },
+        {
+            "name": "Square Adventure Dimensions",
+            "version": 0.1,
+            "builds": {
+                "main": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/Square%20Adventure%20Dimensions_main"
+            },
+            "displayname": "Square Adventure Dimensions",
+            "displaydescription": "Temp game for ACMI YCL lab",
+            "displayimages": [
+                ""
+            ],
+            "displayvideo": "",
             "avaliablebuilds": [
                 "main"
             ],
