@@ -1,11 +1,11 @@
 {
-    "version": 0.95,
-    "packageversion": 0.53,
+    "version": 0.94,
+    "packageversion": 0.52,
     "messages": [
         {
-            "id": 4,
-            "name": "Square Adventure Dimensions Demo Released",
-            "content": "S.A.D.D gallery mode has been added, accessable via the gallery button or with the keypress 'k'. ",
+            "id": 1,
+            "name": "Castle Loop Has Been released",
+            "content": "Castle loop, my gmtk submission has been added to Trihexangular Launcher.",
             "flags": 12222222,
             "images": []
         }
@@ -304,7 +304,7 @@
                 "jam": "https://github.com/DevCyclonekittenTriHex/trihexangulargamesrepo/raw/main/bin/The%20Stronghold_main"
             },
             "displayname": "The Stronghold",
-            "displaydescription": "e",
+            "displaydescription": "A rogue like bullet hell game which loops around after you die, very bad adaption of theme, enemies just get harder but are the same looping enemies, there aren't many rooms, so you constantly loop through them. The game jam right after this was GMTK 2025 and had the same theme.",
             "displayimages": [
                 "icon.png",
                 "banner.png",
