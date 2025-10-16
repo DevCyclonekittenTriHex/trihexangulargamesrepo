@@ -201,7 +201,8 @@
             ],
             "displayvideo": "",
             "avaliablebuilds": [
-                "main"
+                "main",
+                "jam"
             ],
             "price": 0,
             "author": "Trihexangular Studios"
