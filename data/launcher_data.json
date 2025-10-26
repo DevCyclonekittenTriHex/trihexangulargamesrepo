@@ -49,6 +49,7 @@
             ],
             "displayvideo": "null",
             "avaliablebuilds": [
+                "main",
                 "jam"
             ],
             "price": 0,
@@ -139,6 +140,7 @@
             ],
             "displayvideo": "null",
             "avaliablebuilds": [
+                "main",
                 "jam"
             ],
             "price": 0,
@@ -314,6 +316,7 @@
             ],
             "displayvideo": "null",
             "avaliablebuilds": [
+                "main",
                 "jam"
             ],
             "price": 0,
